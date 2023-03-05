@@ -11,4 +11,5 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <exec.mainClass>com.argprograma.clase1.Clase1</exec.mainClass>
     </properties>
+    <name>ejerciciosArgentinaPrograma</name>
 </project>
