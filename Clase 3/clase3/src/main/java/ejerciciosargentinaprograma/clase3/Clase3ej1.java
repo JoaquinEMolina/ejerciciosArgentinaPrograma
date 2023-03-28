@@ -3,10 +3,9 @@ package ejerciciosargentinaprograma.clase3;
 
 import java.util.Arrays;
 import java.util.Scanner;
-import sun.security.util.Debug;
 
 
-public class Clase3 {
+public class Clase3ej1 {
 
     public static void main(String[] args) {
         int num1,num2,num3,orden;
@@ -43,7 +42,5 @@ public class Clase3 {
         Parametros1b par1b = new Parametros1b(num1, num2, num3, orden);
         
         System.out.println( Arrays.toString(par1b.ordenarVector()));
-        
-        
     }
 }
