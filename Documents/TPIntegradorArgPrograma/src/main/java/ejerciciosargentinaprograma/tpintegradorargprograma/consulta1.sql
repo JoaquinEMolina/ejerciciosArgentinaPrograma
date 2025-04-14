@@ -1,5 +1,3 @@
-SELECT * FROM tpintegrador.pronostico;
-
 SELECT 
     j.nombreJugador,
     pa.nombreEquipo1,

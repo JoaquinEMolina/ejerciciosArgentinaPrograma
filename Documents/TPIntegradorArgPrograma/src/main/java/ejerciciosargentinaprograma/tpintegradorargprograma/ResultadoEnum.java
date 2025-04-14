@@ -1,4 +1,4 @@
-package EjercicioIntegrador;
+package ejerciciosargentinaprograma.tpintegradorargprograma;
 
 public enum ResultadoEnum {
     GANADOR,
